@@ -47,7 +47,7 @@ Esto es un chatbot virtual diseñado para la marca española de ropa de ciclismo
 - **Voiceflow** – Plataforma principal para la creación del chatbot conversacional.
 - **JSON / CSV** – Para la integración de FAQ y flujos de datos.
 - **HTML / CSS / JS** – Para integraciones web opcionales.
-- **API/Webhooks** – Para seguimiento de pedidos y personalización avanzada (opcional).
+- **API/Webhooks** – Para seguimiento de pedidos y personalización avanzada .
 
 ---
 
