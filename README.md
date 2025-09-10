@@ -1,4 +1,4 @@
-# Humanth Chatbot – Laia
+# Humanth Chatbot 
 
 ![Humanth Logo](ruta-del-logo.png)
 
